@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+# Quick Start
 
 This Quickstart will help you find answers. Find what information you need and click the link for more information.
 
