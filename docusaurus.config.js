@@ -55,6 +55,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          // {to: '/guide', label: 'Browse the Guide', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
